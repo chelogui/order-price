@@ -5,12 +5,12 @@ The program must run from the command line with the following arguments
 ```
 CalculateOrder Path_to_catalog Product1 Quantity_P1 <Product2 Quantity_P2> ...
 ```
-
 ## How to use
 Install the dependencies
 ```
 npm install
 ```
+## Node Version: 10.6.0
 
 Install the package
 ```

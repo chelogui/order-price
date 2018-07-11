@@ -1,0 +1,35 @@
+{
+  "name": "order-price",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "CalculateOrder": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "configstore": "^3.1.2",
+    "csv-parse": "^2.5.0",
+    "figlet": "^1.2.0",
+    "file-url": "^2.0.2",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0",
+    "simple-git": "^1.96.0",
+    "touch": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelogui/order-price.git"
+  },
+  "author": "Marcelo Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelogui/order-price/issues"
+  },
+  "homepage": "https://github.com/chelogui/order-price#readme"
+}
